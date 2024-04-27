@@ -1,0 +1,18 @@
+int main(){
+int area=1;
+int base=1;
+int hola;
+int j=0;
+hola=base*2;
+if(area<=base){
+cout<<"Camino 1"<<endl;
+}
+else{
+cout<<"Camino \\2"<<endl;
+}
+
+for(j = 0; j <= 5; j++){
+    cout << "Hola: " << j << endl;
+}
+return 0;
+}
